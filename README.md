@@ -28,10 +28,5 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmabenchaouacha&show_icons=true&theme=radical)
-
----
 
 Thanks for visiting! 🚀 Let's connect and create amazing things together. ✨
