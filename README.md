@@ -1,4 +1,3 @@
-salmabenchaouacha/README.md
 # 👋 Hi, I'm **Salma Ben Chaouacha**
 
 ### 🎓 Software Engineering Student · 🤖 AI & Agentic AI Engineering
@@ -7,7 +6,7 @@ Final-year Software Engineering student at **ISSAT Sousse, Tunisia**, building i
 
 I design systems that **understand → reason → plan → use tools → execute → evaluate** — bringing LLM-based reasoning into real backend architectures and production-grade software.
 
-🌍 Open to international opportunities in AI & Software Engineering
+🌍 Open to opportunities in AI & Software Engineering
 
 ---
 
@@ -23,15 +22,19 @@ I design systems that **understand → reason → plan → use tools → execute
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · Java · JavaScript · TypeScript · PHP
+**Generative AI & Agents:** LLMs (OpenAI, Google Gemini) · AI Agents · Multi-Agent Systems · LangChain · LangGraph · Multimodal RAG · Multilingual Embeddings · Semantic Search · ChromaDB · Qdrant · Docling · E2B Sandbox · Prompt Design
 
-**AI/ML:** LLMs · AI Agents · RAG · Scikit-learn · Pandas · NumPy
+**LLM Engineering:** Hugging Face · Qwen · Mistral · Llama · Model Quantization · Local Deployment · Local RAG · Benchmarking (Latency, Memory)
 
-**Backend/Web:** FastAPI · Django · Spring Boot · Symfony · React · REST APIs · Swagger
+**ML & Data Science:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · EDA · Feature Engineering · Clustering · Segmentation · Supervised ML
 
-**Databases:** PostgreSQL · MySQL · Oracle · H2
+**Engineering & Deployment:** FastAPI · Flask · REST APIs · Docker · Git · GitHub · pytest · Render
 
-**Tools:** Docker · Git · GitHub · pytest · Figma
+**Software Engineering & Databases:** Django · Spring Boot · React · Microservices · Swagger · PostgreSQL · MySQL · SQLite
+
+**Languages:** Python · Java · JavaScript · TypeScript
+
+**Methods & Design:** MVC/MVT · Agile/Scrum · Figma
 
 ---
 
